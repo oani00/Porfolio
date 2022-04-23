@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mudar letras</title>
+</head>
+<body>
+    <h1 class="text-center bg-primary text-light py-3">Mudar letras</h1>
+
+    <section class="container">
+        
+        <form>
+            <div class="form-group">
+                <label for="texto" class="my-2"><strong>Insira seu texto aqui</strong></label>
+                <textarea class="form-control" name="texto" id="texto" cols="30" rows="10" placeholder="Digite seu texto..."></textarea>
+
+            </div>
+            <div class="mt-4 text-center">
+                <button id="maiuscula" class="my-1 btn btn-primary">TODAS AS LETRAS MAIÚSCULAS</button>
+                <button id="minuscula" class="btn btn-primary">TODAS AS LETRAS MINÚSCULAS</button>
+            </div>
+            <DIV class="my-2 text-center">
+                <button id="primeira" class=" btn btn-primary">
+                    PRIMEIRA LETRA DE CADA PALAVRA MAIÚSCULA
+                </button>
+            </DIV>
+           <p  class="text-center">Caracteres:
+            <span id="contador">0</span>
+           </p>
+            
+
+            
+        </form>
+
+    </section>
+
+
+</body>
+
+<script>
+
+//variáveis da UI
+
+const textArea=document.getElementById('texto');
+const btn1=document.getElementById('maiuscula');
+const btn2=document.getElementById('minuscula');
+const btn3=document.getElementById('primeira');
+var contador=document.getElementById('contador');
+let juncao="";
+
+console.log(contador)
+//eventos
+textArea.addEventListener('keyup', function(){
+contador.textContent = textArea.value.length.toString();
+});
+
+
+btn1.addEventListener('click',function(e){
+
+
+let textValue=textArea.value.toUpperCase();
+textArea.value=textValue;
+e.preventDefault()});
+
+
+
+btn2.addEventListener('click',function(e){
+
+
+let textValue=textArea.value.toLowerCase();
+textArea.value=textValue;
+e.preventDefault()});
+
+
+
+btn3.addEventListener('click',function(e){
+
+textArea.value.split(" ");
+let substrings =textArea.value.toLowerCase().split(" ");
+
+for (let i = 0; i < substrings.length; i++) { var chars=substrings[i].charAt(0).toUpperCase()+substrings[i].substr(1);
+    juncao=juncao+chars+" ";
+
+        
+        
+    }
+    juncao=juncao.substring(0, juncao.length - 1);
+
+    textArea.value=juncao;
+    juncao="";
+    
+
+
+    e.preventDefault();
+})
+
+
+
+</script>
+
+
+
+</html>

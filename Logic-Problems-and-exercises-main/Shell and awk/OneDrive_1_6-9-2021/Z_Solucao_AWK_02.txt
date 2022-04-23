@@ -1,0 +1,38 @@
+BEGIN {
+   print "Estatistica diretorio"
+   numregTotal = 0
+   numregAceito = 0
+   numregIgnorado = 0
+   numRegComum = 0
+   numRegDire  = 0
+   numRegOutros = 0
+}
+
+{
+   numregTotal = numregTotal + 1
+   if (NF >= 9 && $5 > 0) {
+      numregAceito = numregAceito + 1
+      tipo = substr($1,1,1)
+      print "ARQUIVO: ", $9, " - TAMANHO: ", $5
+      if (tipo == "-") {
+         numRegComum = numRegComum + 1
+      } else {
+         if (tipo == "d") {
+            numRegDire = numRegDire + 1
+	 } else {
+            numRegOutros = numRegOutros + 1
+         }
+      }
+   } else {
+      numregIgnorado = numregIgnorado + 1
+   }
+}
+END {
+	print "TOTAL LIDOS = ", numregTotal 
+        print "TOTAL IGNORADOS = ", numregIgnorado 
+        print "TOTAL ACEITOS = ", numregAceito 
+	print "TOTAL ARQ COMUM = ", numRegComum 
+        print "TOTAL ARQ DIRETORIO = ", numRegDire 
+        print "TOTAL ARQ OUTROS = ", numRegOutros 
+}
+

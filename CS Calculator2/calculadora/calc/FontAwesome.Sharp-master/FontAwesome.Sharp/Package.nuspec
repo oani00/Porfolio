@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<package>
+  <metadata>
+    <id>FontAwesome.Sharp</id>
+    <version>$Version$</version>
+    <title>FontAwesome.Sharp</title>
+		<authors>Awesome Incremented and Contributors</authors>
+		<owners>Awesome Incremented and Contributors</owners>
+    <iconUrl>http://fortawesome.github.io/Font-Awesome/assets/ico/favicon.ico</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <releaseNotes>Revision: $Revision$</releaseNotes>
+    <projectUrl>https://github.com/awesome-inc/FontAwesome.Sharp</projectUrl>
+    <description>A library for embbeding Font Awesome icons in WPF &amp; Windows Forms applications</description>
+    <summary>A library for embbeding Font Awesome icons in WPF &amp; Windows Forms applications</summary>
+    <copyright>Awesome Incremented</copyright>
+    <frameworkAssemblies>
+      <frameworkAssembly assemblyName="WindowsBase"/>
+      <frameworkAssembly assemblyName="PresentationCore"/>
+      <frameworkAssembly assemblyName="PresentationFramework"/>
+      <frameworkAssembly assemblyName="System.Xaml"/>
+      <frameworkAssembly assemblyName="System.Windows.Forms"/>
+      <frameworkAssembly assemblyName="System.Drawing"/>
+    </frameworkAssemblies>
+  </metadata>
+  <files>
+    <file src="bin\Release\FontAwesome.Sharp.dll" target="lib\net40"/>
+  </files>
+</package>

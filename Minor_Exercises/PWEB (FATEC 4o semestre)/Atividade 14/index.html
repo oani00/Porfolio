@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+	<meta charset="UTF-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Exercicio 14</title>
+</head>
+
+
+<!-- 
+- Criar uma funcao validar no evento onsubmit do Form.
+- Nome nao pode ter menos que 10 caracteres.
+- Email deve ter os caracteres @ e .
+- Comentario deve ter no minimo 20 caracteres
+- 20 caracteres.
+
+- Pesquisa (obrigatorio). 
+Se nao:
+	Retornar : "Que bom que voce voltou a visitar esta pagina!", 
+caso contrario: 
+	"Volte sempre a esta pagina!". 
+-Utilize mesmo atributo name nos radios.
+
+- Utilizar- document.nomeform.elements[] na funcao pelo menos em algum caso
+ -->
+
+
+
+
+<body style="background-color:#16b7f7 ;">
+
+	<p>
+		<center>
+			<h1>
+				<font color="white">
+					Formulario principal
+					<hr color="white">
+				</font>
+
+			</h1>
+
+		</center>
+
+	</p>
+	<form action="teste" method="post" name="pesquisa" id="pesquisa"
+		onsubmit="return validarDados();setTimeout(donothing, 50000);">
+
+
+		<label for="nome">Nome:</label><br>
+		<input type="text" id="nome" name="nome"><br>
+		<label for="nome">E-mail:</label><br>
+		<input type="text" id="email" name="email"><br>
+		<label for="nome">Comentario:</label><br>
+		<input type="text" id="comentario" name="comentario"><br>
+
+
+	</form>
+
+	<center>
+		Primeira vez na página??
+		<h2>Pesquisa</h2>
+		<input type="radio" id="radio_sim" name="primeira_vez">Sim
+		<input type="radio" id="radio_nao" name="primeira_vez">Não
+		<br>
+		<br>
+		<br>
+		<br>
+
+
+		<input name="Submit" type="submit" form="pesquisa" value="Enviar">
+		<input name="Reset" type="reset" form="pesquisa" value="Limpar">
+	</center>
+
+	<script>
+		//https://html.form.guide/snippets/javascript-form-validation-using-regular-expression/
+		function validaEmail() {
+			var email = document.getElementById('email').value;
+			var emailRGEX = /^[a-zA-Z0-9_.]{0,50}[@][a-z]{0,50}[.][a-z]{3}$/;
+			return emailRGEX.test(email);
+		}
+
+		function validarDados() {
+			var email = document.getElementById('email');
+			var nome = document.getElementById('nome');
+			var comentario = document.getElementById('comentario');
+			var sim = document.getElementById('radio_sim');
+			var nao = document.getElementById('radio_nao');
+
+			if (nome.value.length < 10) {
+				alert("NOME INVÁLIDO. Minimo de 10 caracteres.");
+				return false;
+			}
+			if (comentario.value.length < 20) {
+				alert("COMENTÁRIO INVÁLIDO. Minimo de 20 caracteres");
+				return false;
+			}
+			if (!validaEmail()) {
+				alert("Insira um email válido.");
+				return false;
+			}
+
+			if (sim.checked) {
+				alert("Volte sempre á esta pagina!");
+			}
+			if (nao.checked) {
+				alert("Que bom que voce voltou a visitar esta pagina!");
+			}
+		}
+	</script>
+
+
+</body>
+
+</html>

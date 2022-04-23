@@ -1,0 +1,6 @@
+Augusto Cesar Campos; 3001;6
+Ronaldo Hornburg; 3001;2
+Flavio Luis Costa; 3002;3
+Gabriela Silva; 3002; 8
+Arnaldo Cesar Coelho; 3003;15
+Maria Aparecida Souza; 3002;7

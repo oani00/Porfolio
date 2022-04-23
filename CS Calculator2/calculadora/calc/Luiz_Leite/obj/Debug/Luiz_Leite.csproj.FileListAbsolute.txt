@@ -1,0 +1,69 @@
+H:\ETEC\Curso ETEC info\2º Módulo\DS I\Luiz_Leite\Luiz_Leite\bin\Debug\Luiz_Leite.exe.config
+H:\ETEC\Curso ETEC info\2º Módulo\DS I\Luiz_Leite\Luiz_Leite\bin\Debug\Luiz_Leite.exe
+H:\ETEC\Curso ETEC info\2º Módulo\DS I\Luiz_Leite\Luiz_Leite\bin\Debug\Luiz_Leite.pdb
+H:\ETEC\Curso ETEC info\2º Módulo\DS I\Luiz_Leite\Luiz_Leite\bin\Debug\MetroFramework.Design.dll
+H:\ETEC\Curso ETEC info\2º Módulo\DS I\Luiz_Leite\Luiz_Leite\bin\Debug\MetroFramework.dll
+H:\ETEC\Curso ETEC info\2º Módulo\DS I\Luiz_Leite\Luiz_Leite\bin\Debug\MetroFramework.Fonts.dll
+H:\ETEC\Curso ETEC info\2º Módulo\DS I\Luiz_Leite\Luiz_Leite\obj\Debug\Luiz_Leite.csprojResolveAssemblyReference.cache
+H:\ETEC\Curso ETEC info\2º Módulo\DS I\Luiz_Leite\Luiz_Leite\obj\Debug\Luiz_Leite.SplashScreen.resources
+H:\ETEC\Curso ETEC info\2º Módulo\DS I\Luiz_Leite\Luiz_Leite\obj\Debug\Luiz_Leite.Properties.Resources.resources
+H:\ETEC\Curso ETEC info\2º Módulo\DS I\Luiz_Leite\Luiz_Leite\obj\Debug\Luiz_Leite.csproj.GenerateResource.Cache
+H:\ETEC\Curso ETEC info\2º Módulo\DS I\Luiz_Leite\Luiz_Leite\obj\Debug\Luiz_Leite.exe
+H:\ETEC\Curso ETEC info\2º Módulo\DS I\Luiz_Leite\Luiz_Leite\obj\Debug\Luiz_Leite.pdb
+D:\ETEC\Curso ETEC info\2º Módulo\DS I\Luiz_Leite\Luiz_Leite\bin\Debug\Luiz_Leite.exe.config
+D:\ETEC\Curso ETEC info\2º Módulo\DS I\Luiz_Leite\Luiz_Leite\obj\Debug\Luiz_Leite.exe
+D:\ETEC\Curso ETEC info\2º Módulo\DS I\Luiz_Leite\Luiz_Leite\obj\Debug\Luiz_Leite.pdb
+D:\ETEC\Curso ETEC info\2º Módulo\DS I\Luiz_Leite\Luiz_Leite\bin\Debug\Luiz_Leite.exe
+D:\ETEC\Curso ETEC info\2º Módulo\DS I\Luiz_Leite\Luiz_Leite\bin\Debug\Luiz_Leite.pdb
+D:\ETEC\Curso ETEC info\2º Módulo\DS I\Luiz_Leite\Luiz_Leite\bin\Debug\MetroFramework.Design.dll
+D:\ETEC\Curso ETEC info\2º Módulo\DS I\Luiz_Leite\Luiz_Leite\bin\Debug\MetroFramework.dll
+D:\ETEC\Curso ETEC info\2º Módulo\DS I\Luiz_Leite\Luiz_Leite\bin\Debug\MetroFramework.Fonts.dll
+D:\ETEC\Curso ETEC info\2º Módulo\DS I\Luiz_Leite\Luiz_Leite\obj\Debug\Luiz_Leite.TelaInicial.resources
+D:\ETEC\Curso ETEC info\2º Módulo\DS I\Luiz_Leite\Luiz_Leite\obj\Debug\Luiz_Leite.Properties.Resources.resources
+D:\ETEC\Curso ETEC info\2º Módulo\DS I\Luiz_Leite\Luiz_Leite\obj\Debug\Luiz_Leite.SplashScreen.resources
+D:\ETEC\Curso ETEC info\2º Módulo\DS I\Luiz_Leite\Luiz_Leite\obj\Debug\Luiz_Leite.csproj.GenerateResource.Cache
+D:\ETEC\Curso ETEC info\2º Módulo\DS I\Luiz_Leite\Luiz_Leite\bin\Debug\FontAwesome.Sharp.dll
+D:\ETEC\Curso ETEC info\2º Módulo\DS I\Luiz_Leite\Luiz_Leite\obj\Debug\Luiz_Leite.Iniciante.resources
+D:\ETEC\Curso ETEC info\2º Módulo\DS I\Luiz_Leite\Luiz_Leite\obj\Debug\Luiz_Leite.Mediano.resources
+Z:\ETEC\Curso ETEC info\2º Módulo\DS I\Luiz_Leite\Luiz_Leite\bin\Debug\Luiz_Leite.exe.config
+Z:\ETEC\Curso ETEC info\2º Módulo\DS I\Luiz_Leite\Luiz_Leite\obj\Debug\Luiz_Leite.exe
+Z:\ETEC\Curso ETEC info\2º Módulo\DS I\Luiz_Leite\Luiz_Leite\obj\Debug\Luiz_Leite.pdb
+Z:\ETEC\Curso ETEC info\2º Módulo\DS I\Luiz_Leite\Luiz_Leite\bin\Debug\Luiz_Leite.exe
+Z:\ETEC\Curso ETEC info\2º Módulo\DS I\Luiz_Leite\Luiz_Leite\bin\Debug\Luiz_Leite.pdb
+Z:\ETEC\Curso ETEC info\2º Módulo\DS I\Luiz_Leite\Luiz_Leite\bin\Debug\FontAwesome.Sharp.dll
+Z:\ETEC\Curso ETEC info\2º Módulo\DS I\Luiz_Leite\Luiz_Leite\bin\Debug\MetroFramework.Design.dll
+Z:\ETEC\Curso ETEC info\2º Módulo\DS I\Luiz_Leite\Luiz_Leite\bin\Debug\MetroFramework.dll
+Z:\ETEC\Curso ETEC info\2º Módulo\DS I\Luiz_Leite\Luiz_Leite\bin\Debug\MetroFramework.Fonts.dll
+Z:\ETEC\Curso ETEC info\2º Módulo\DS I\Luiz_Leite\Luiz_Leite\obj\Debug\Luiz_Leite.Iniciante.resources
+Z:\ETEC\Curso ETEC info\2º Módulo\DS I\Luiz_Leite\Luiz_Leite\obj\Debug\Luiz_Leite.Mediano.resources
+Z:\ETEC\Curso ETEC info\2º Módulo\DS I\Luiz_Leite\Luiz_Leite\obj\Debug\Luiz_Leite.TelaInicial.resources
+Z:\ETEC\Curso ETEC info\2º Módulo\DS I\Luiz_Leite\Luiz_Leite\obj\Debug\Luiz_Leite.Properties.Resources.resources
+Z:\ETEC\Curso ETEC info\2º Módulo\DS I\Luiz_Leite\Luiz_Leite\obj\Debug\Luiz_Leite.SplashScreen.resources
+Z:\ETEC\Curso ETEC info\2º Módulo\DS I\Luiz_Leite\Luiz_Leite\obj\Debug\Luiz_Leite.csproj.GenerateResource.Cache
+Z:\ETEC\Curso ETEC info\2º Módulo\DS I\Luiz_Leite\Luiz_Leite\obj\Debug\Luiz_Leite.csprojResolveAssemblyReference.cache
+H:\ETEC\Curso ETEC info\2º Módulo\DS I\Luiz_Leite\Luiz_Leite\bin\Debug\FontAwesome.Sharp.dll
+H:\ETEC\Curso ETEC info\2º Módulo\DS I\Luiz_Leite\Luiz_Leite\obj\Debug\Luiz_Leite.Iniciante.resources
+H:\ETEC\Curso ETEC info\2º Módulo\DS I\Luiz_Leite\Luiz_Leite\obj\Debug\Luiz_Leite.Mediano.resources
+H:\ETEC\Curso ETEC info\2º Módulo\DS I\Luiz_Leite\Luiz_Leite\obj\Debug\Luiz_Leite.TelaInicial.resources
+Z:\ETEC\Curso ETEC info\2º Módulo\DS I\Luiz_Leite\Luiz_Leite\obj\Debug\Luiz_Leite.Avancado.resources
+Z:\ETEC\Curso ETEC info\2º Módulo\DS I\Luiz_Leite\Luiz_Leite\obj\Debug\Luiz_Leite.TelaSobre.resources
+H:\ETEC\Curso ETEC info\2º Módulo\DS I\Luiz_Leite\Luiz_Leite\obj\Debug\Luiz_Leite.TelaSobre.resources
+H:\ETEC\Curso ETEC info\2º Módulo\DS I\Luiz_Leite\Luiz_Leite\obj\Debug\Luiz_Leite.Avancado.resources
+E:\backupsON\REPOS\Cs_Things\Calculator2\calculadora\calc\Luiz_Leite\bin\Debug\Luiz_Leite.exe.config
+E:\backupsON\REPOS\Cs_Things\Calculator2\calculadora\calc\Luiz_Leite\bin\Debug\Luiz_Leite.exe
+E:\backupsON\REPOS\Cs_Things\Calculator2\calculadora\calc\Luiz_Leite\bin\Debug\Luiz_Leite.pdb
+E:\backupsON\REPOS\Cs_Things\Calculator2\calculadora\calc\Luiz_Leite\bin\Debug\FontAwesome.Sharp.dll
+E:\backupsON\REPOS\Cs_Things\Calculator2\calculadora\calc\Luiz_Leite\obj\Debug\Luiz_Leite.csproj.AssemblyReference.cache
+E:\backupsON\REPOS\Cs_Things\Calculator2\calculadora\calc\Luiz_Leite\obj\Debug\Luiz_Leite.csproj.SuggestedBindingRedirects.cache
+E:\backupsON\REPOS\Cs_Things\Calculator2\calculadora\calc\Luiz_Leite\obj\Debug\Luiz_Leite.TelaSobre.resources
+E:\backupsON\REPOS\Cs_Things\Calculator2\calculadora\calc\Luiz_Leite\obj\Debug\Luiz_Leite.Avancado.resources
+E:\backupsON\REPOS\Cs_Things\Calculator2\calculadora\calc\Luiz_Leite\obj\Debug\Luiz_Leite.Iniciante.resources
+E:\backupsON\REPOS\Cs_Things\Calculator2\calculadora\calc\Luiz_Leite\obj\Debug\Luiz_Leite.Mediano.resources
+E:\backupsON\REPOS\Cs_Things\Calculator2\calculadora\calc\Luiz_Leite\obj\Debug\Luiz_Leite.TelaInicial.resources
+E:\backupsON\REPOS\Cs_Things\Calculator2\calculadora\calc\Luiz_Leite\obj\Debug\Luiz_Leite.Properties.Resources.resources
+E:\backupsON\REPOS\Cs_Things\Calculator2\calculadora\calc\Luiz_Leite\obj\Debug\Luiz_Leite.SplashScreen.resources
+E:\backupsON\REPOS\Cs_Things\Calculator2\calculadora\calc\Luiz_Leite\obj\Debug\Luiz_Leite.csproj.GenerateResource.cache
+E:\backupsON\REPOS\Cs_Things\Calculator2\calculadora\calc\Luiz_Leite\obj\Debug\Luiz_Leite.csproj.CoreCompileInputs.cache
+E:\backupsON\REPOS\Cs_Things\Calculator2\calculadora\calc\Luiz_Leite\obj\Debug\Luiz_Leite.csproj.CopyComplete
+E:\backupsON\REPOS\Cs_Things\Calculator2\calculadora\calc\Luiz_Leite\obj\Debug\Luiz_Leite.exe
+E:\backupsON\REPOS\Cs_Things\Calculator2\calculadora\calc\Luiz_Leite\obj\Debug\Luiz_Leite.pdb

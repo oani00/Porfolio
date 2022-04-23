@@ -1,0 +1,43 @@
+
+
+- Inserindo dados nas tabelas
+
+-- Inserindo 5 pacientes
+
+insert into Paciente values  (1,'Maria Antônia da Silva', '20/03/1998','F','Rua das Flores,40','Sorocaba','S');
+insert into Paciente values  (3,'José Roberto Pereira', '20/04/2002','M','Rua Margarida,60','Itu','N');
+insert into Paciente values  (4,'Ana Costa', '02/06/1998','F','Rua das Camélias,140','Sorocaba','S');
+insert into Paciente values  (5,'Solange Pinheiro', '15/10/1994','F','Avenida Verão, 234','Itapetininga','N');
+insert into Paciente values  (6,'Caio da Silva', '05/03/1998','M','Rua das Flores,40','Sorocaba','S');
+insert into paciente values  (2,'Jose Maria','20/03/01','M','Rua Inverno, 30','Itu','N');
+
+-- Verificando as inserções
+
+select * from paciente;
+
+
+-- quando for necessário inserir dados em uma ordem diferente da ordem dos campos na tabela.
+insert into Paciente (nompaciente, codpaciente,.....) values ('Maria Antônia da Silva', 2,...)
+
+
+-- inserir 5 médicos
+insert into medico values (100,'Dr. Who');
+insert into medico values (101,'Dr. House');
+insert into medico values (102,'Dr. Smith');
+insert into medico values (103,'Dr. X');
+insert into medico values (104,'Dr. Estranho');
+
+-- inserir 5 consultas
+
+insert into consulta values (300,'01-03-2021','P',3,102,500.50);
+insert into consulta values (301,'05-02-2021','C',5,103,100.50);
+insert into consulta values (302,'01-03-2020','P',2,102,600.00);
+insert into consulta values (303,'25-04-2021','C',1,104,99.98);
+
+commit;
+
+-- verificando as inclusões
+select * from paciente;
+select * from medico;
+select * from consulta;
+-------------------------------------------------------------

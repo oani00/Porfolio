@@ -1,0 +1,32 @@
+Create table Paciente
+( Codpaciente    number(4,0)    Primary  Key,
+  Nompaciente    varchar2(30)   not null,
+  Datanasc       date,
+  Sexo           char( 1 ) check (sexo in ( 'F',  'M' )),	
+  Endereco      varchar2(25) ) ;
+
+
+Create table Consulta
+(   Codconsulta   number(3,0)     Primary Key ,
+    Dataconsulta  date,
+    Tipocons      char(01)   check  (tipocons in ('P','C')),
+    Codpaciente  number(4,0) Not Null   References Paciente,                   
+    Codmedico    number(4,0) Not Null   References Medico ,
+    Valconsulta  number(6,2) Not Null ) ;
+
+Create table medico
+(codmedico number(4,0) primary key,
+ nomeMedico  varchar2(40));
+
+
+Restrições que podem ser implementadas na criação da Tabela
+
+Restrição de Chave primária
+
+Restrição de Chave estrangeira
+
+Restrição de cláusula check
+
+Restrição Unique
+
+Restrição de valores nulos NULL e o NOt NULL

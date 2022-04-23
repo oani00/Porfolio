@@ -1,0 +1,65 @@
+acumulado=0
+sncontinua="sim"
+while test $sncontinua = "sim"
+do
+   clear
+   echo "CALCULADORA"
+   echo " "
+   echo "Selecione a operacao aritmetica:"
+   echo " "
+   echo "A = ADICAO"  
+   echo "S = SUBTRACAO"
+   echo "M = MULTIPLICACAO"
+   echo "D = DIVISAO"
+   echo " "
+   echo "Z = ENCERRAR"
+   echo " "
+   echo "Resultado acumulado = $acumulado"
+   echo " "
+  read oper
+   echo " "
+   
+   if test $oper = "Z"
+   then
+      echo "Programa encerrado."
+      echo " "    
+      exit
+   fi
+
+   if test $oper = "A" || test $oper = "S" || test $oper = "M" || test $oper = "D"
+   then
+      echo "Digite o primeiro operando:"
+      read num1
+      echo "Digite o segundo operando:"
+      read num2
+      echo " "
+   fi
+
+   xaverro="nao"
+
+   case $oper in
+      "A") resultado=`expr $num1 + $num2`;;
+      "S") resultado=`expr $num1 - $num2`;;
+      "M") resultado=`expr $num1 \* $num2`;;
+      "D") resultado=`expr $num1 / $num2`;;
+      *)   echo "Opcao invalida"
+           xaverro="sim";;
+   esac
+
+   if test $xaverro = "nao"
+   then
+      acumulado=`expr $acumulado + $resultado`
+      echo "RESULTADO = $resultado"
+      resto=`expr $resultado % 2`
+      if test $resto -eq 0
+      then
+         echo "O RESULTADO $resultado EH PAR."
+      else
+         echo "O RESULTADO $resultado EH IMPAR."
+      fi
+   fi
+
+   echo "pressione <ENTER> para continuar"
+   read lixxo
+done
+

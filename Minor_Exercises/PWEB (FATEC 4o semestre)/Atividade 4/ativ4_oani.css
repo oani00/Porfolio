@@ -1,0 +1,264 @@
+/* ============== Estrutura da pagina ============== */
+
+body {
+
+    background: black ;
+    background-image: url(src/Ravnica_legends.webp);
+    background-attachment: scroll;
+    background-position: top;
+    background-repeat: no-repeat;
+    color: white;
+    font-family: "mtg", "Lucida Grande", "Lucida Sans Unicode", Verdana, sans-serif;
+    line-height: 1.5;
+}
+
+@font-face {
+    font-family: 'mtg';
+    src: url(fontes/Planewalker-38m6.ttf) format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'phy';
+    src: url(fontes/fontephyrexiana.woff2) format('woff2');
+    font-weight: normal;
+    font-style: normal;
+}
+
+img {
+    height: 300px;
+}
+
+.container {
+    margin: 0 auto;
+    width: 960px;
+}
+
+article {
+    background-color: black;
+    border: 1px solid #CCC;
+    /* border-color: #CCC #999 #999 #CCC; */
+    border-color: #CCC;
+    margin-bottom: 20px;
+    padding: 10px;
+    /* espaçamento entre a borda e o título */
+}
+
+article h2 {
+    border-bottom: 1px dashed #7E9F19;
+    margin: 0;
+}
+
+article img {
+    border: 1px gray;
+    float: left;
+    margin: 10px 10px 0 0;
+    padding: 5px;
+    width: 140px;
+    height: 170px;
+}
+
+article a {
+    /* mudando a cor dos links para negrito */
+    color: #2C88A7;
+    font-weight: bold;
+}
+
+header h1 {
+    color: white;
+    text-decoration: none;
+    text-align: center;
+    /* margin-left: 250px; */
+}
+
+header h1 a:hover {
+    /* mudando a cor do link quando posicionado */
+    background-color: #7E9F19;
+    color: #FFF;
+}
+
+.clear {
+    /* para a imagem nao "ficar fora" quando usa o float */
+    clear: both;
+}
+
+footer {
+    font-size: 12px;
+    text-align: center;
+}
+
+section {
+    /* para a barra lateral lista e titulo */
+    float: left;
+    width: 660px;
+}
+
+aside {
+    text-align: center;
+    background-color: black;
+    border: 1px solid gray;
+    padding: 10px;
+    float: right;
+    width: 260px;
+}
+
+aside h3 {
+    font-size: 14px;
+    margin-top: 0;
+}
+
+aside ol {
+    font-size: 12px;
+}
+
+
+
+
+
+
+
+/* ============== Estruturas dos conteudos ============== */
+
+#phy {
+    font-family: 'phy';
+}
+
+figcaption {
+    bottom: 10px;
+    /* em relacao ao bottom da imagem */
+    margin: 0 5px;
+    padding: 5px;
+    width: 260px;
+    background-color: rgba(0, 0, 0, 0.8);
+    color: #FFF;
+}
+
+/* Coloca essa linha super tosca */
+.todas {
+    color: blue;
+    text-align: center;
+    background-image: linear-gradient(to right, red, white, blue, green, purple);
+}
+
+/* https: //www.w3schools.com/css/css3_gradients.asp */
+
+.WU {
+    margin: 0 auto;
+    text-align: center;
+    border-radius: 25px;
+    padding: 20px;
+    width: 100px;
+    font-weight: bold;
+    color: white;
+    width: 150px;
+    background: -webkit-gradient(linear, left top, left bottom, from(white), to(blue))
+}
+
+.UB {
+    margin: 0 auto;
+    text-align: center;
+    border-radius: 25px;
+    padding: 20px;
+    width: 100px;
+    font-weight: bold;
+    color: white;
+    width: 150px;
+    background: -webkit-gradient(linear, left top, left bottom, from(blue), to(black))
+}
+
+.BR {
+    margin: 0 auto;
+    text-align: center;
+    border-radius: 25px;
+    padding: 20px;
+    width: 100px;
+    font-weight: bold;
+    color: white;
+    width: 150px;
+    background: -webkit-gradient(linear, left top, left bottom, from(black), to(red))
+}
+
+.RG {
+    margin: 0 auto;
+    text-align: center;
+    border-radius: 25px;
+    padding: 20px;
+    width: 100px;
+    font-weight: bold;
+    color: white;
+    width: 150px;
+    background: -webkit-gradient(linear, left top, left bottom, from(red), to(green))
+}
+
+.GW {
+    margin: 0 auto;
+    text-align: center;
+    border-radius: 25px;
+    padding: 20px;
+    width: 100px;
+    font-weight: bold;
+    color: white;
+    width: 150px;
+    background: -webkit-gradient(linear, left top, left bottom, from(green), to(white))
+}
+
+.WB {
+    margin: 0 auto;
+    text-align: center;
+    border-radius: 25px;
+    padding: 20px;
+    width: 100px;
+    font-weight: bold;
+    color: white;
+    width: 150px;
+    background: -webkit-gradient(linear, left top, left bottom, from(white), to(black))
+}
+
+.UR {
+    margin: 0 auto;
+    text-align: center;
+    border-radius: 25px;
+    padding: 20px;
+    width: 100px;
+    font-weight: bold;
+    color: white;
+    width: 150px;
+    background: -webkit-gradient(linear, left top, left bottom, from(blue), to(red))
+}
+
+.BG {
+    margin: 0 auto;
+    text-align: center;
+    border-radius: 25px;
+    padding: 20px;
+    width: 100px;
+    font-weight: bold;
+    color: white;
+    width: 150px;
+    background: -webkit-gradient(linear, left top, left bottom, from(black), to(green))
+}
+
+.RW {
+    margin: 0 auto;
+    text-align: center;
+    border-radius: 25px;
+    padding: 20px;
+    width: 100px;
+    font-weight: bold;
+    color: white;
+    width: 150px;
+    background: -webkit-gradient(linear, left top, left bottom, from(red), to(white))
+}
+
+.GU {
+    margin: 0 auto;
+    text-align: center;
+    border-radius: 25px;
+    padding: 20px;
+    width: 100px;
+    font-weight: bold;
+    color: white;
+    width: 150px;
+    background: -webkit-gradient(linear, left top, left bottom, from(green), to(blue))
+}

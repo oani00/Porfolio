@@ -1,0 +1,10 @@
+C:\backupsON\Repos_Offline\LP2\Prova\P0030482011028\P0030482011028\bin\Debug\P0030482011028.exe.config
+C:\backupsON\Repos_Offline\LP2\Prova\P0030482011028\P0030482011028\bin\Debug\P0030482011028.exe
+C:\backupsON\Repos_Offline\LP2\Prova\P0030482011028\P0030482011028\bin\Debug\P0030482011028.pdb
+C:\backupsON\Repos_Offline\LP2\Prova\P0030482011028\P0030482011028\obj\Debug\P0030482011028.csprojAssemblyReference.cache
+C:\backupsON\Repos_Offline\LP2\Prova\P0030482011028\P0030482011028\obj\Debug\P0030482011028.Form1.resources
+C:\backupsON\Repos_Offline\LP2\Prova\P0030482011028\P0030482011028\obj\Debug\P0030482011028.Properties.Resources.resources
+C:\backupsON\Repos_Offline\LP2\Prova\P0030482011028\P0030482011028\obj\Debug\P0030482011028.csproj.GenerateResource.cache
+C:\backupsON\Repos_Offline\LP2\Prova\P0030482011028\P0030482011028\obj\Debug\P0030482011028.csproj.CoreCompileInputs.cache
+C:\backupsON\Repos_Offline\LP2\Prova\P0030482011028\P0030482011028\obj\Debug\P0030482011028.exe
+C:\backupsON\Repos_Offline\LP2\Prova\P0030482011028\P0030482011028\obj\Debug\P0030482011028.pdb

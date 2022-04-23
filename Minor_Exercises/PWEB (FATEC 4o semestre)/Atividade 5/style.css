@@ -1,0 +1,62 @@
+:root {
+    --margin: 10px;
+}
+
+h1 {
+    text-align: center;
+}
+
+#inicio {
+    margin: auto;
+    text-align: center;
+    width: 55%;
+}
+
+#assinatura {
+    text-align: right;
+    font-style: italic;
+}
+
+body {
+    padding: 10px;
+}
+
+footer {
+    
+}
+
+.container-box {
+    display: flex;
+    /** display flexbox **/
+    flex-wrap: wrap;
+    /* Define se os itens devem quebrar ou não a linha*/
+    height: calc(100vh - 100px);
+    /* https: //stackoverflow.com/questions/42868808/how-to-set-the-height-for-a-flexbox-container-so-it-uses-the-remaining-space */
+
+}
+
+.box {
+    border-radius: 10px;
+    margin: var(--margin);
+    height: 100px;
+}
+
+.normal {
+    border: 5px;
+    border-color: black;
+    width: calc(95%/2);
+    height: 50%;
+}
+
+img {
+    padding: 15px;
+    float: left;
+    height: 150px;
+}
+
+footer {
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+}

@@ -1,0 +1,19 @@
+1) A citation to the website from which you downloaded the data.
+
+https://www.kaggle.com/tmdb/tmdb-movie-metadata
+
+2) The data you downloaded, and a description of how others can access this data
+(e.g., the search terms you used).
+
+There are ways to acess IMDB`s database, but I`m not so used to programming so I searched for "imdb csv" in google. It quickly gotme to kaggle wich stores various databases for ready use.
+
+3) Some information that will allow readers to understand the original data. This
+information should be similar to a ‘codebook’. In our simple datafile, this will
+be straightforward, but in larger datasets, this requires careful work.
+
+It's a simple csv, no secrets.
+
+4) If you use existing datasets, a DOI (Digital Object Identifier) assigned to the
+dataset, if available. This is not needed for our project.
+
+-

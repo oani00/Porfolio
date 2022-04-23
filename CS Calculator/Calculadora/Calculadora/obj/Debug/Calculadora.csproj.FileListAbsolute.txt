@@ -1,0 +1,11 @@
+E:\backupsON\REPOS\Calculadora\Calculadora\bin\Debug\Calculadora.exe.config
+E:\backupsON\REPOS\Calculadora\Calculadora\bin\Debug\Calculadora.exe
+E:\backupsON\REPOS\Calculadora\Calculadora\bin\Debug\Calculadora.pdb
+E:\backupsON\REPOS\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.AssemblyReference.cache
+E:\backupsON\REPOS\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.SuggestedBindingRedirects.cache
+E:\backupsON\REPOS\Calculadora\Calculadora\obj\Debug\Calculadora.Form1.resources
+E:\backupsON\REPOS\Calculadora\Calculadora\obj\Debug\Calculadora.Properties.Resources.resources
+E:\backupsON\REPOS\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.GenerateResource.cache
+E:\backupsON\REPOS\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.CoreCompileInputs.cache
+E:\backupsON\REPOS\Calculadora\Calculadora\obj\Debug\Calculadora.exe
+E:\backupsON\REPOS\Calculadora\Calculadora\obj\Debug\Calculadora.pdb

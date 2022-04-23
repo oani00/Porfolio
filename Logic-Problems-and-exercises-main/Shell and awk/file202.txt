@@ -1,0 +1,23 @@
+total 184608
+-rw-r--r-- 1 oani oani 118977147 May 27 09:07 2021-05-27 07-50-00.mkv
+-rw-r--r-- 1 oani oani   3804706 May 27 09:11 2021-05-27 09-07-55.mkv
+-rw-r--r-- 1 oani oani   7865681 May 27 10:18 2021-05-27 09-35-50.mkv
+-rw-r--r-- 1 oani oani  56966193 May 27 11:12 2021-05-27 10-31-42.mkv
+-rw-rw-r-- 1 oani oani       157 May 14 13:58 alunos.txt
+-rw-rw-r-- 1 oani oani       106 Apr 30 11:45 a.txt
+-rw-rw-r-- 1 oani oani        75 Apr 16 09:35 aula1sexta
+drwxr-xr-x 2 oani oani      4096 May 19 21:05 Desktop
+-rw-rw-r-- 1 oani oani         0 May 27 19:57 dir001.txt
+drwxr-xr-x 2 oani oani      4096 Apr  6 19:52 Documents
+drwxr-xr-x 2 oani oani      4096 May 27 19:56 Downloads
+drwx------ 4 oani oani      4096 May 27 16:53 Dropbox
+drwxrwxr-x 2 oani oani      4096 Apr 14 14:22 Links
+drwxrwxr-x 5 oani oani      4096 May 23 22:01 manterdeSEED
+-rw-r--r-- 1 oani oani   1250876 May 19 12:18 mto.mkv
+drwxr-xr-x 2 oani oani      4096 May  3 20:41 Music
+drwxr-xr-x 2 oani oani      4096 May 16 12:36 Pictures
+drwxr-xr-x 2 oani oani      4096 Apr  6 19:52 Public
+drwxr-xr-x 2 oani oani      4096 Apr  6 19:52 Templates
+drwxr-xr-x 3 oani oani      4096 May 26 18:03 Torrents
+-rw-r--r-- 1 oani oani     90420 Apr 30 11:22 UNIX_AVALIACAO_LAB_B1_2021_B.pdf
+drwxr-xr-x 2 oani oani      4096 Apr  6 19:52 Videos

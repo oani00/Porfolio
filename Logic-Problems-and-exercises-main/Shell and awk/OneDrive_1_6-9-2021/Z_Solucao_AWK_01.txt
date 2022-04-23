@@ -1,0 +1,18 @@
+BEGIN {
+	print "Processando diretorios"
+	numreg = 0
+        tamanho = 0
+}
+
+NF >= 8 {
+	numreg = numreg + 1
+        tamanho = tamanho + $5
+}
+
+END {
+	media = tamanho / numreg
+	print "ARQUIVOS LIDOS = ", numreg
+        print "ESPAÇO OCUPADO = ", tamanho
+        print "TAMANHO MÉDIO  = ", media	
+}
+

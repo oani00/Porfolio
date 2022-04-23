@@ -1,0 +1,21 @@
+    o foco é nessas materias disconexas de programação mas ligadas em análise
+​
+    estatistica, contabilidade
+​
+    essas doença ai
+​
+https://docs.microsoft.com/pt-br/office/vba/language/reference/user-interface-help/xor-operator
+​
+    achei uma documentação da microsoft sobre o XOR( ou exclusivo lá de md)
+​
+    em C ele é ^
+​
+    se vai precisar dele no codility
+
+
+    só um lembrete, esta em visual basic as ilustrações
+​
+    a Xor b em C seria A ^= B
+​
+    mas se pega
+
