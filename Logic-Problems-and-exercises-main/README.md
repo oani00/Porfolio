@@ -1,3 +1,0 @@
-# Logic-Problems-and-exercises
-
-..
